@@ -1,0 +1,15 @@
+.container {
+  margin: 1rem;
+
+  display: flex;
+
+  width: 400px;
+
+  border-radius: 10%;
+  border-color: red solid 2px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
